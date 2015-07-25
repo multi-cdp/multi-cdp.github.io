@@ -1,0 +1,9 @@
+# Site settings
+title: Multi Cloud Design Pattern(Beta)
+description: Architectures for the users by the users
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://multi-cdp.github.io" # the base hostname & protocol for your site
+permalink: /:categories/:title
+
+# Build settings
+markdown: kramdown
