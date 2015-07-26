@@ -24,6 +24,9 @@ layout: page
 
 ### パターン
 - [No VM Scheduled Job](/batch/no-vm-scheduled-job/)
+- [Enhanced Scaling](/scaling/enhanced-scaling/)
+- [Low Cost High Availability CDN](/contents-delivery/low-cost-ha-cdn/)
+- [BigQuery for now](/analytics/bq-for-now/)
 
 ### Authors and Contributors
 - Masashi Terui([@marcy_terui](https://github.com/marcy-terui))

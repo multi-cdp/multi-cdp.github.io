@@ -2,7 +2,7 @@
 layout: pattern
 title:  "No VM Scheduled Job"
 categories: batch
-ate:   2015-07-26 01:18:48
+date:   2015-07-26 01:18:48
 author: marcy_terui
 ---
 
